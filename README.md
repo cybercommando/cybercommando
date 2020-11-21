@@ -13,7 +13,7 @@
 
 
 
-## Tech
+## Languages & Frameworks
 
 <p align="center">
 
@@ -47,10 +47,6 @@
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
 
-   <a href="#">
-   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/services/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   </a>
-
 <!--Java-->
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -58,8 +54,13 @@
 
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/springboot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   </a>      
+   </a>
 
+ </p>
+ 
+## Tools & Services
+<p align="center">
+   
 <!--Tools-->
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/tools/visualstudio.svg" alt="example badge"  style="vertical-align:top margin:6px 4px">
@@ -94,8 +95,10 @@
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/services/nuget.svg" alt="example badge"  style="vertical-align:top margin:6px 4px">
    </a>
 
- </p>
- 
+   <a href="#">
+   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/services/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   </a>
+</p>
  
 ## Social
 <p align="center">
@@ -108,7 +111,7 @@
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/social/email_me.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
    
-   <a href="https://join.skype.com/invite/i7fCIZroR5sZ">
+   <a href="https://join.skype.com/invite/fPPwTA5w4T9K">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/social/skype.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a> 
 
