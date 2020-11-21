@@ -17,7 +17,7 @@
 
 <p align="center">
    <a href="#">
-    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
       
    <a href="#">
     <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/django.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
