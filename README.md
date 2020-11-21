@@ -26,6 +26,14 @@
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/fsharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
 
+   <a href="#">
+   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/uwp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   </a>
+
+   <a href="#">
+   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/wpf.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   </a>
+
 <!--FrontEnd-->
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -41,6 +49,10 @@
 
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   </a>
+
+   <a href="#">
+   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/jquery.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
 
    <a href="#">
