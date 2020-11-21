@@ -26,10 +26,6 @@
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/fsharp_dotnet.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>
 
-   <a href="#">
-   <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/frameworks/net_core.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   </a>
-
 <!--FrontEnd-->
    <a href="#">
    <img src="https://raw.githubusercontent.com/cybercommando/cybercommando/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
