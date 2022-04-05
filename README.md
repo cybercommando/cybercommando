@@ -1,11 +1,10 @@
 ### Hello everyone, 👋 - I'm Zubair
 
-
-* Master in Software Engineering
-* Bachelor in Software Engineering
+* Specialied in Enterprise Software Development
+* Master in Software Engineering | University of Tartu
+* Bachelor in Software Engineering | University of Gujrat
 * Microsoft .Net Developer
-* Learning and exploring of Blockchain Technologies
-* Software Developer intern at Kuhne+Nagel
+* Software Developer at BitBoxLab OÜ
 
 
 ![Zubair's github stats](https://github-readme-stats.vercel.app/api?username=cybercommando&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
