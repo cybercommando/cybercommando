@@ -1,4 +1,4 @@
-### Hello everyone, 👋 - I'm Zubair
+### Hello everyone, 👋 - I'm Muhammad Zubair
 
 * Specialied in Enterprise Software Development
 * Master in Software Engineering | University of Tartu
@@ -7,9 +7,7 @@
 * Software Developer at BitBoxLab OÜ
 
 
-![Zubair's github stats](https://github-readme-stats.vercel.app/api?username=cybercommando&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
-
-
+![Zubair's github stats](https://github-readme-stats.vercel.app/api?username=cybercommando&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&theme=dark)
 
 
 ## Languages & Frameworks
